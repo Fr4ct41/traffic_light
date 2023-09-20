@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+        "path": "."
+    }
+],
+  "settings": {
+    "search.exclude": {
+      "/outDir": true,
+      "/3rdParty": true,
+    },
+    "files.exclude": {
+      "/outDir": true,
+      "/3rdParty": true,
+    },
+  }
+}
